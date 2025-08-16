@@ -1,12 +1,12 @@
-# 🚚 VBA – Automação de Criação de Ordens de Transporte
+# 🚚 Automação: Criação de Transportes - Returns
 
-Macros desenvolvidas em **VBA (Visual Basic for Applications)** para automação de processos no **Microsoft Excel**, integradas ao **SAP GUI**.  
-O projeto permite criar ordens de transporte, gerenciar remessas e atualizar planilhas automaticamente, reduzindo erros e aumentando a produtividade.
+Macro desenvolvida em **VBA (Visual Basic for Applications)** para automação de processos no **Microsoft Excel** com integração no **SAP ERP**.  
+O projeto permite criar transportes e gerenciar remessas, reduzindo erros e aumentando a produtividade.
 
 ---
 
 
-## 🚀 Como Utilizar
+## Como Utilizar
 
 ### 🔹 Usar a versão pronta
 1. Acesse a pasta [`build/`](./build).  
@@ -21,14 +21,14 @@ O projeto permite criar ordens de transporte, gerenciar remessas e atualizar pla
 
 ---
 
-## 🛠️ Desenvolvimento
+## Desenvolvimento
 
 - **Automação SAP GUI** → Criação de transportes diretamente no SAP.  
 - **Validação de dados** → Garantia de consistência de notas fiscais, materiais e parceiros.
 - **Compatibilidade** → Testado no Excel 2016, 2019 e Microsoft 365.  
 
-### 🔧 Contribuir
+### Contribuir
 1. Faça um **fork** deste repositório.  
 2. Clone para sua máquina:  
    ```bash
-   git clone https://github.com/usuario/TransportAutomation.git
+   git clone https://github.com/Etamus//Returns-Freight-Automation.git
