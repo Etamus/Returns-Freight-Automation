@@ -1,4 +1,4 @@
-# 🚚 Automação: Criação de Transportes - Returns
+# Automação: Criação de Transportes - Returns
 
 Macro desenvolvida em **VBA (Visual Basic for Applications)** para automação de processos no **Microsoft Excel** com integração no **SAP ERP**.  
 O projeto permite criar transportes e gerenciar remessas, reduzindo erros e aumentando a produtividade.
